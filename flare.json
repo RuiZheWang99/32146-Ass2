@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "Airspace Class",
+   "name": "Boy nextdoor",
      "children": [
       {
        "name": "distortion",
@@ -117,7 +117,7 @@
    ]
   },
   {
-   "name": "vis",
+   "name": "Airspace Class",
    "children": [
     {
      "name": "axis",
@@ -185,7 +185,7 @@
      ]
     },
     {
-     "name": "operator",
+     "name": "A",
      "children": [
       {
        "name": "distortion",
@@ -223,10 +223,10 @@
        ]
       },
       {
-       "name": "layout",
+       "name": "From Sydney",
        "children": [
-        {"name": "AxisLayout", "value": 6725},
-        {"name": "BundledEdgeRouter", "value": 3727},
+        {"name": "To Brisbane", "value": 180},
+        {"name": "To Newcastle", "value": 90},
         {"name": "CircleLayout", "value": 9317},
         {"name": "CirclePackingLayout", "value": 12003},
         {"name": "DendrogramLayout", "value": 4853},
@@ -248,8 +248,8 @@
       {"name": "OperatorSwitch", "value": 2581},
       {"name": "SortOperator", "value": 2023}
      ]
-    },
-    {"name": "Visualization", "value": 16540}
+    }
+    
    ]
   }
  ]
