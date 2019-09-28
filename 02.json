@@ -143,8 +143,6 @@
         {
           "name": "B",
           "children": [
-            {
-              "children": [
                 {
                   "name": "From Sydney",
                   "children": [
@@ -275,8 +273,8 @@
                     }
                   ]
                 }
-              ]
-            }
+              
+            
           ]
         }
 
