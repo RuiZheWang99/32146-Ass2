@@ -2,19 +2,28 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
-   "children": [
-    {
-     "name": "cluster",
+   "name": "Airspace Class",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
-     ]
-    },
+      {
+       "name": "distortion",
+       "children": [
+        {"name": "BifocalDistortion", "value": 4461},
+        {"name": "Distortion", "value": 6314},
+        {"name": "FisheyeDistortion", "value": 3444}
+       ]
+      },
+      {
+       "name": "encoder",
+       "children": [
+        {"name": "ColorEncoder", "value": 3179},
+        {"name": "Encoder", "value": 4060},
+        {"name": "PropertyEncoder", "value": 4138},
+        {"name": "ShapeEncoder", "value": 1690},
+        {"name": "SizeEncoder", "value": 1830}
+       ]
+      },
     {
-     "name": "graph",
+     "name": "B",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
       {"name": "LinkDistance", "value": 5731},
@@ -24,7 +33,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "C",
      "children": [
       {"name": "AspectRatioBanker", "value": 7074}
      ]
