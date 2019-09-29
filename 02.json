@@ -244,152 +244,136 @@
           ]
         },
 
-        {
-          "name": "Class C",
+         {
+          "name": "Class D",
           "children": [
+            {
+              "name": "From Adelaide",
+              "children": [
                 {
-                  "name": "From Sydney",
-                  "children": [
-                    {
-                      "name": "AxisLayout",
-                      "value": 6725
-                    },
-                    {
-                      "name": "BundledEdgeRouter",
-                      "value": 3727
-                    },
-                    {
-                      "name": "CircleLayout",
-                      "value": 9317
-                    },
-                    {
-                      "name": "CirclePackingLayout",
-                      "value": 12003
-                    },
-                    {
-                      "name": "DendrogramLayout",
-                      "value": 4853
-                    },
-                    {
-                      "name": "ForceDirectedLayout",
-                      "value": 8411
-                    },
-                    {
-                      "name": "IcicleTreeLayout",
-                      "value": 4864
-                    },
-                    {
-                      "name": "IndentedTreeLayout",
-                      "value": 3174
-                    },
-                    {
-                      "name": "Layout",
-                      "value": 7881
-                    },
-                    {
-                      "name": "NodeLinkTreeLayout",
-                      "value": 12870
-                    },
-                    {
-                      "name": "PieLayout",
-                      "value": 2728
-                    },
-                    {
-                      "name": "RadialTreeLayout",
-                      "value": 12348
-                    },
-                    {
-                      "name": "RandomLayout",
-                      "value": 870
-                    },
-                    {
-                      "name": "StackedAreaLayout",
-                      "value": 9121
-                    },
-                    {
-                      "name": "TreeMapLayout",
-                      "value": 9191
-                    }
-                  ]
+                  "name": "To Perth",
+                  "value": 220
                 },
                 {
-                  "name": "From Newcastle",
+                  "name": "To Darwin",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 230
+                }
+              ]
+            },
+                {
+                  "name": "From Perth",
                   "children": [
                     {
-                      "name": "AxisLayout",
-                      "value": 6725
-                    },
-                    {
-                      "name": "BundledEdgeRouter",
-                      "value": 3727
-                    },
-                    {
-                      "name": "CircleLayout",
-                      "value": 9317
-                    },
-                    {
-                      "name": "CirclePackingLayout",
-                      "value": 12003
-                    },
-                    {
-                      "name": "DendrogramLayout",
-                      "value": 4853
-                    },
-                    {
-                      "name": "ForceDirectedLayout",
-                      "value": 8411
-                    },
-                    {
-                      "name": "IcicleTreeLayout",
-                      "value": 4864
-                    },
-                    {
-                      "name": "IndentedTreeLayout",
-                      "value": 3174
-                    },
-                    {
-                      "name": "Layout",
-                      "value": 7881
-                    },
-                    {
-                      "name": "NodeLinkTreeLayout",
-                      "value": 12870
-                    },
-                    {
-                      "name": "PieLayout",
-                      "value": 2728
-                    },
-                    {
-                      "name": "RadialTreeLayout",
-                      "value": 12348
-                    },
-                    {
-                      "name": "RandomLayout",
-                      "value": 870
-                    },
-                    {
-                      "name": "StackedAreaLayout",
-                      "value": 9121
-                    },
-                    {
-                      "name": "TreeMapLayout",
-                      "value": 9191
+                      "name": "To Adelaide",
+                      "value": 220
                     }
                   ]
                 }
-              
-            
+          ]
+        },
+          {
+          "name": "Class E",
+          "children": [
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Alice Springs",
+                  "value": 120
+                }
+              ]
+            },
+                {
+                  "name": "From Alice Springs",
+                  "children": [
+                    {
+                      "name": "To Darwin",
+                      "value": 20
+                    }
+                  ]
+                }
+          ]
+        },
+        {
+          "name": "Class C",
+          "children": [
+            {
+              "name": "From Melbourne",
+              "children": [
+                {
+                  "name": "To Sydney",
+                  "value": 180
+                }
+              ]
+            },
+            {
+              "name": "From Broken Hill",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "From Perth",
+              "children": [
+                {
+                  "name": "To Albany",
+                  "value": 100
+                },
+                {
+                  "name": "To Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "To Brome",
+                  "value": 90
+                }
+              ]
+            },
+            {
+              "name": "From Kalgoorlie",
+              "children": [
+                {
+                  "name": "To Perth",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "From Pt Augusta",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+                {
+                  "name": "From Adelaide",
+                  "children": [
+                    {
+                      "name": "To Melbourne",
+                      "value": 175
+                    },
+                    {
+                      "name": "To Broken Hill",
+                      "value": 100
+                    }
+                  ]
+                }
           ]
         }
-
-
-
-
-
-
-
-
-
           ]
         },
 
