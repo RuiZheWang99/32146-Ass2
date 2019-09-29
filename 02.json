@@ -297,7 +297,7 @@
                   "children": [
                     {
                       "name": "To Darwin",
-                      "value": 20
+                      "value": 120
                     }
                   ]
                 }
@@ -381,67 +381,47 @@
           "name": "Aircraft Model",
           "children": [
             {
-              "name": "From Sydney",
+              "name": "A330-203",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "Sydney-Melbourne",
+                  "value": 180
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
+                  "name": "Adelaide-Perth",
+                  "value": 220
                 },
                 {
-                  "name": "CircleLayout",
-                  "value": 9317
+                  "name": "Adelaide-Darwin",
+                  "value": 230
                 },
                 {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
+                  "name": "Darwin-Adelaide",
+                  "value": 230
                 },
                 {
-                  "name": "DendrogramLayout",
-                  "value": 4853
+                  "name": "Perth-Adelaide",
+                  "value": 220
                 },
                 {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
+                  "name": "Brisbane-Sydney",
+                  "value": 170
                 },
                 {
-                  "name": "IcicleTreeLayout",
-                  "value": 4864
+                  "name": "Brisbane-Cairns",
+                  "value": 230
                 },
                 {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
+                  "name": "Brisbane-Darwin",
+                  "value": 240
                 },
                 {
-                  "name": "Layout",
-                  "value": 7881
+                  "name": "Cairns-Brisbane",
+                  "value": 230
                 },
                 {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
-                },
-                {
-                  "name": "PieLayout",
-                  "value": 2728
-                },
-                {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
-                },
-                {
-                  "name": "RandomLayout",
-                  "value": 870
-                },
-                {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
-                },
-                {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "Darwin-Brisbane",
+                  "value": 240
                 }
               ]
             },
@@ -519,34 +499,34 @@
           "name": "Engine Model",
           "children": [
             {
-              "name": "From Sydney",
+              "name": "CF6-80E142",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "Sydney-Melbourne",
+                  "value": 180
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
+                  "name": "Sydney-Brisbane",
+                  "value": 170
                 },
                 {
-                  "name": "CircleLayout",
-                  "value": 9317
+                  "name": "Adelaide-Darwin",
+                  "value": 230
                 },
                 {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
+                  "name": "Adelaide-Perth",
+                  "value": 220
                 },
                 {
-                  "name": "DendrogramLayout",
-                  "value": 4853
+                  "name": "Darwin-Adelaide",
+                  "value": 230
                 },
                 {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
+                  "name": "Perth-Adelaide",
+                  "value": 220
                 },
                 {
-                  "name": "IcicleTreeLayout",
+                  "name": "Brisbane-Sydney",
                   "value": 4864
                 },
                 {
