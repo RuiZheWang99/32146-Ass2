@@ -1,0 +1,855 @@
+{
+  "name": "Detail",
+  "children": [
+
+    {
+      "name": "Airspace class",
+      "children": [
+        {
+          "name": "Class A",
+          "children": [
+            {
+              "name": "From Bendigo",
+              "children": [
+                {
+                  "name": "To Melbourne",
+                  "value": 70
+                }
+              ]
+            },
+            {
+              "name": "From Brisbane",
+              "children": [
+                {
+                  "name": "To Mt Isa",
+                  "value": 170
+                },
+                {
+                  "name": "To Rockhampton",
+                  "value": 180
+                },
+                {
+                  "name": "To Cairns",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Cairns",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 240
+                }
+              ]
+            },
+             {
+              "name": "From Hobart",
+              "children": [
+                {
+                  "name": "To Melbourne",
+                  "value": 130
+                },
+                {
+                  "name": "To Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "From Melbourne",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 175
+                },
+                {
+                  "name": "To Hobart",
+                  "value": 130
+                },
+                {
+                  "name": "To Bendigo",
+                  "value": 70
+                },
+                {
+                  "name": "To Launceston",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "From Newcastle",
+              "children": [
+                {
+                  "name": "To Sydney",
+                  "value": 90
+                }
+              ]
+            },
+            {
+              "name": "From Sydney",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "To Newcastle",
+                  "value": 90
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Class B",
+          "children": [
+            {
+              "name": "From Sydney",
+              "children": [
+                {
+                  "name": "To Melbourne",
+                  "value": 180
+                },
+                {
+                  "name": "To Canberra",
+                  "value": 120
+                },
+                {
+                  "name": "To Broken Hill",
+                  "value": 130
+                }
+              ]
+            },
+            {
+              "name": "From Broken Hill",
+              "children": [
+                {
+                  "name": "To Sydney",
+                  "value": 130
+                }
+              ]
+            },
+            {
+              "name": "From Melbourne",
+              "children": [
+                {
+                  "name": "To Canberra",
+                  "value": 140
+                }
+              ]
+            },
+            {
+              "name": "From Albany",
+              "children": [
+                {
+                  "name": "To Perth",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "From Broome",
+              "children": [
+                {
+                  "name": "To Perth",
+                  "value": 90
+                }
+              ]
+            },
+            {
+              "name": "From Brisbane",
+              "children": [
+                {
+                  "name": "To Sydney",
+                  "value": 170
+                },
+                {
+                  "name": "To Darwin",
+                  "value": 240
+                }
+              ]
+            },
+            {
+              "name": "From Launceston",
+              "children": [
+                {
+                  "name": "To Melbourne",
+                  "value": 100
+                },
+                {
+                  "name": "To Hobart",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "From Rockhampton",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 180
+                }
+              ]
+            },
+            {
+              "name": "From Mt Isa",
+              "children": [
+                {
+                  "name": "To Darwin",
+                  "value": 120
+                }
+              ]
+            },
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Mt Isa",
+                  "value": 120
+                }
+              ]
+            },
+            {
+              "name": "From Adelaide",
+              "children": [
+                {
+                  "name": "To Pt Augusta",
+                  "value": 50
+                }
+              ]
+            },
+                {
+                  "name": "From Canberra",
+                  "children": [
+                    {
+                      "name": "To Sydney",
+                      "value": 120
+                    },
+                    {
+                      "name": "To Melbourne",
+                      "value": 140
+                    }
+                  ]
+                }
+          ]
+        },
+
+         {
+          "name": "Class D",
+          "children": [
+            {
+              "name": "From Adelaide",
+              "children": [
+                {
+                  "name": "To Perth",
+                  "value": 220
+                },
+                {
+                  "name": "To Darwin",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 230
+                }
+              ]
+            },
+                {
+                  "name": "From Perth",
+                  "children": [
+                    {
+                      "name": "To Adelaide",
+                      "value": 220
+                    }
+                  ]
+                }
+          ]
+        },
+          {
+          "name": "Class E",
+          "children": [
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Alice Springs",
+                  "value": 120
+                }
+              ]
+            },
+                {
+                  "name": "From Alice Springs",
+                  "children": [
+                    {
+                      "name": "To Darwin",
+                      "value": 120
+                    }
+                  ]
+                }
+          ]
+        },
+        {
+          "name": "Class C",
+          "children": [
+            {
+              "name": "From Melbourne",
+              "children": [
+                {
+                  "name": "To Sydney",
+                  "value": 180
+                }
+              ]
+            },
+            {
+              "name": "From Broken Hill",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "From Perth",
+              "children": [
+                {
+                  "name": "To Albany",
+                  "value": 100
+                },
+                {
+                  "name": "To Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "To Brome",
+                  "value": 90
+                }
+              ]
+            },
+            {
+              "name": "From Kalgoorlie",
+              "children": [
+                {
+                  "name": "To Perth",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "From Pt Augusta",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+                {
+                  "name": "From Adelaide",
+                  "children": [
+                    {
+                      "name": "To Melbourne",
+                      "value": 175
+                    },
+                    {
+                      "name": "To Broken Hill",
+                      "value": 100
+                    }
+                  ]
+                }
+          ]
+        }
+          ]
+        },
+
+        {
+          "name": "Aircraft Model",
+          "children": [
+            {
+              "name": "A330-203",
+              "children": [
+                {
+                  "name": "Sydney-Melbourne",
+                  "value": 180
+                },
+                {
+                  "name": "Adelaide-Perth",
+                  "value": 220
+                },
+                {
+                  "name": "Adelaide-Darwin",
+                  "value": 230
+                },
+                {
+                  "name": "Darwin-Adelaide",
+                  "value": 230
+                },
+                {
+                  "name": "Perth-Adelaide",
+                  "value": 220
+                },
+                {
+                  "name": "Brisbane-Sydney",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Cairns",
+                  "value": 230
+                },
+                {
+                  "name": "Brisbane-Darwin",
+                  "value": 240
+                },
+                {
+                  "name": "Cairns-Brisbane",
+                  "value": 230
+                },
+                {
+                  "name": "Darwin-Brisbane",
+                  "value": 240
+                }
+              ]
+            },
+            {
+              "name": "B737-476",
+              "children": [
+                {
+                  "name": "Canberra-Sydney",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Alice Springs",
+                  "value": 120
+                },
+                {
+                  "name": "Alice Springs-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Broome-Perth",
+                  "value": 90
+                },
+                {
+                  "name": "Launceston-Melbourne",
+                  "value": 100
+                }
+              ]
+            },
+             {
+              "name": "A330-243",
+              "children": [
+                {
+                  "name": "Melbourne-Sydney",
+                  "value": 180
+                }
+              ]
+            },
+             {
+              "name": "A320-232",
+              "children": [
+                {
+                  "name": "Sydney-Newcastle	",
+                  "value": 90
+                },
+                {
+                  "name": "Newcastle-Sydney",
+                  "value": 90
+                },
+                {
+                  "name": "Sydney-Broken Hill",
+                  "value": 130
+                },
+                {
+                  "name": "Broken Hill-Sydney",
+                  "value": 130
+                },
+                {
+                  "name": "Melbourne-Canberra",
+                  "value": 140
+                },
+                {
+                  "name": "Canberra-Melbourne",
+                  "value": 140
+                },
+                {
+                  "name": "Melbourne-Hobart",
+                  "value": 130
+                },
+                {
+                  "name": "Adelaide-Broken Hill",
+                  "value": 100
+                },
+                {
+                  "name": "Broken Hill-Adelaide",
+                  "value": 100
+                },
+                {
+                  "name": "Perth-Albany",
+                  "value": 100
+                },
+                {
+                  "name": "Perth-Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "Perth-Broome",
+                  "value": 90
+                },
+                {
+                  "name": "Albany-Perth",
+                  "value": 100
+                },
+                {
+                  "name": "Kalgoorlie-Perth",
+                  "value": 80
+                },
+                {
+                  "name": "Launceston-Hobart",
+                  "value": 80
+                },
+                {
+                  "name": "Hobart-Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "B737-3B7",
+              "children": [
+                {
+                  "name": "Sydney-Canberra",
+                  "value": 120
+                },
+                {
+                  "name": "Melbourne-Adelaide",
+                  "value": 175
+                },
+                {
+                  "name": "Melbourne-Launceston",
+                  "value": 100
+                },
+                {
+                  "name": "Adelaide-Melbourne",
+                  "value": 175
+                },
+                {
+                  "name": "Hobart-Melbourne",
+                  "value": 130
+                },
+                {
+                  "name": "Brisbane-Mt Isa",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Rockhampton",
+                  "value": 180
+                },
+                {
+                  "name": "Mt Isa-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Mt Isa",
+                  "value": 120
+                }
+              ]
+            },
+             {
+              "name": "B717-200",
+              "children": [
+                {
+                  "name": "Melbourne-Bendigo",
+                  "value": 70
+                },
+                {
+                  "name": "Bendigo-Melbourne",
+                  "value": 70
+                },
+                {
+                  "name": "Adelaide-Pt Augusta",
+                  "value": 50
+                },
+                {
+                  "name": "Pt Augusta-Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "A330-202",
+              "children": [
+                {
+                  "name": "Sydney-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Mt Isa-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Rockhampton-Brisbane",
+                  "value": 180
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+
+
+          "name": "Engine Model",
+          "children": [
+            {
+              "name": "CF6-80E142",
+              "children": [
+                {
+                  "name": "Sydney-Melbourne",
+                  "value": 180
+                },
+                {
+                  "name": "Sydney-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Adelaide-Darwin",
+                  "value": 230
+                },
+                {
+                  "name": "Adelaide-Perth",
+                  "value": 220
+                },
+                {
+                  "name": "Darwin-Adelaide",
+                  "value": 230
+                },
+                {
+                  "name": "Perth-Adelaide",
+                  "value": 220
+                },
+                {
+                  "name": "Brisbane-Sydney",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Cairns",
+                  "value": 230
+                },
+                {
+                  "name": "Brisbane-Darwin",
+                  "value": 240
+                },
+                {
+                  "name": "Mt Isa-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Rockhampton-Brisbane",
+                  "value": 180
+                },
+                {
+                  "name": "Cairns-Brisbane",
+                  "value": 230
+                },
+                {
+                  "name": "Darwin-Brisbane",
+                  "value": 240
+                }
+              ]
+            },
+            {
+              "name": "CFM-56-3",
+              "children": [
+                {
+                  "name": "Canberra-Sydney",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Alice Springs",
+                  "value": 120
+                },
+                {
+                  "name": "Alice Springs-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Broome-Perth",
+                  "value": 90
+                },
+                {
+                  "name": "Launceston-Melbourne",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "V2527-5A",
+              "children": [
+                {
+                  "name": "Sydney-Newcastle	",
+                  "value": 90
+                },
+                {
+                  "name": "Newcastle-Sydney",
+                  "value": 90
+                },
+                {
+                  "name": "Sydney-Broken Hill",
+                  "value": 130
+                },
+                {
+                  "name": "Broken Hill-Sydney",
+                  "value": 130
+                },
+                {
+                  "name": "Melbourne-Canberra",
+                  "value": 140
+                },
+                {
+                  "name": "Canberra-Melbourne",
+                  "value": 140
+                },
+                {
+                  "name": "Melbourne-Hobart",
+                  "value": 130
+                },
+                {
+                  "name": "Adelaide-Broken Hill",
+                  "value": 100
+                },
+                {
+                  "name": "Broken Hill-Adelaide",
+                  "value": 100
+                },
+                {
+                  "name": "Perth-Albany",
+                  "value": 100
+                },
+                {
+                  "name": "Perth-Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "Perth-Broome",
+                  "value": 90
+                },
+                {
+                  "name": "Albany-Perth",
+                  "value": 100
+                },
+                {
+                  "name": "Kalgoorlie-Perth",
+                  "value": 80
+                },
+                {
+                  "name": "Launceston-Hobart",
+                  "value": 80
+                },
+                {
+                  "name": "Hobart-Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "Unknow",
+              "children": [
+                {
+                  "name": "Melbourne-Bendigo",
+                  "value": 70
+                },
+                {
+                  "name": "Bendigo-Melbourne",
+                  "value": 70
+                },
+                {
+                  "name": "Adelaide-Pt Augusta",
+                  "value": 50
+                },
+                {
+                  "name": "Pt Augusta-Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "772B-60",
+              "children": [
+                {
+                  "name": "Melbourne-Sydney",
+                  "value": 180
+                }
+              ]
+            },
+            {
+              "name": "CFM56-3B1",
+              "children": [
+                {
+                  "name": "Sydney-Canberra",
+                  "value": 120
+                },
+                {
+                  "name": "Melbourne-Adelaide",
+                  "value": 175
+                },
+                {
+                  "name": "Melbourne-Launceston",
+                  "value": 100
+                },
+                {
+                  "name": "Adelaide-Melbourne",
+                  "value": 175
+                },
+                 {
+                  "name": "Hobart-Melbourne",
+                  "value": 130
+                },
+                {
+                  "name": "Brisbane-Mt Isa",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Rockhampton",
+                  "value": 180
+                },
+                {
+                  "name": "Mt Isa-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Mt Isa",
+                  "value": 120
+                }
+              ]
+            }
+          ]
+        }
+
+
+
+
+
+
+      ]
+    }
+  
+
+
+
+
+  
