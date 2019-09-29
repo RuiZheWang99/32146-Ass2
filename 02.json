@@ -426,67 +426,184 @@
               ]
             },
             {
-              "name": "From Newcastle",
+              "name": "B737-476",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "Canberra-Sydney",
+                  "value": 120
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
+                  "name": "Darwin-Alice Springs",
+                  "value": 120
                 },
                 {
-                  "name": "CircleLayout",
-                  "value": 9317
+                  "name": "Alice Springs-Darwin",
+                  "value": 120
                 },
                 {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
+                  "name": "Broome-Perth",
+                  "value": 90
                 },
                 {
-                  "name": "DendrogramLayout",
-                  "value": 4853
+                  "name": "Launceston-Melbourne",
+                  "value": 100
+                }
+              ]
+            },
+             {
+              "name": "A330-243",
+              "children": [
+                {
+                  "name": "Melbourne-Sydney",
+                  "value": 180
+                }
+              ]
+            },
+             {
+              "name": "A320-232",
+              "children": [
+                {
+                  "name": "Sydney-Newcastle	",
+                  "value": 90
                 },
                 {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
+                  "name": "Newcastle-Sydney",
+                  "value": 90
                 },
                 {
-                  "name": "IcicleTreeLayout",
-                  "value": 4864
+                  "name": "Sydney-Broken Hill",
+                  "value": 130
                 },
                 {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
+                  "name": "Broken Hill-Sydney",
+                  "value": 130
                 },
                 {
-                  "name": "Layout",
-                  "value": 7881
+                  "name": "Melbourne-Canberra",
+                  "value": 140
                 },
                 {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
+                  "name": "Canberra-Melbourne",
+                  "value": 140
                 },
                 {
-                  "name": "PieLayout",
-                  "value": 2728
+                  "name": "Melbourne-Hobart",
+                  "value": 130
                 },
                 {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
+                  "name": "Adelaide-Broken Hill",
+                  "value": 100
                 },
                 {
-                  "name": "RandomLayout",
-                  "value": 870
+                  "name": "Broken Hill-Adelaide",
+                  "value": 100
                 },
                 {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
+                  "name": "Perth-Albany",
+                  "value": 100
                 },
                 {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "Perth-Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "Perth-Broome",
+                  "value": 90
+                },
+                {
+                  "name": "Albany-Perth",
+                  "value": 100
+                },
+                {
+                  "name": "Kalgoorlie-Perth",
+                  "value": 80
+                },
+                {
+                  "name": "Launceston-Hobart",
+                  "value": 80
+                },
+                {
+                  "name": "Hobart-Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "B737-3B7",
+              "children": [
+                {
+                  "name": "Sydney-Canberra",
+                  "value": 120
+                },
+                {
+                  "name": "Melbourne-Adelaide",
+                  "value": 175
+                },
+                {
+                  "name": "Melbourne-Launceston",
+                  "value": 100
+                },
+                {
+                  "name": "Adelaide-Melbourne",
+                  "value": 175
+                },
+                {
+                  "name": "Hobart-Melbourne",
+                  "value": 130
+                },
+                {
+                  "name": "Brisbane-Mt Isa",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Rockhampton",
+                  "value": 180
+                },
+                {
+                  "name": "Mt Isa-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Mt Isa",
+                  "value": 120
+                }
+              ]
+            },
+             {
+              "name": "B717-200",
+              "children": [
+                {
+                  "name": "Melbourne-Bendigo",
+                  "value": 70
+                },
+                {
+                  "name": "Bendigo-Melbourne",
+                  "value": 70
+                },
+                {
+                  "name": "Adelaide-Pt Augusta",
+                  "value": 50
+                },
+                {
+                  "name": "Pt Augusta-Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "A330-202",
+              "children": [
+                {
+                  "name": "Sydney-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Mt Isa-Brisbane",
+                  "value": 170
+                },
+                {
+                  "name": "Rockhampton-Brisbane",
+                  "value": 180
                 }
               ]
             }
@@ -527,104 +644,196 @@
                 },
                 {
                   "name": "Brisbane-Sydney",
-                  "value": 4864
+                  "value": 170
                 },
                 {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
+                  "name": "Brisbane-Cairns",
+                  "value": 230
                 },
                 {
-                  "name": "Layout",
-                  "value": 7881
+                  "name": "Brisbane-Darwin",
+                  "value": 240
                 },
                 {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
+                  "name": "Mt Isa-Brisbane",
+                  "value": 170
                 },
                 {
-                  "name": "PieLayout",
-                  "value": 2728
+                  "name": "Rockhampton-Brisbane",
+                  "value": 180
                 },
                 {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
+                  "name": "Cairns-Brisbane",
+                  "value": 230
                 },
                 {
-                  "name": "RandomLayout",
-                  "value": 870
-                },
-                {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
-                },
-                {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "Darwin-Brisbane",
+                  "value": 240
                 }
               ]
             },
             {
-              "name": "From Newcastle",
+              "name": "CFM-56-3",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "Canberra-Sydney",
+                  "value": 120
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
+                  "name": "Darwin-Alice Springs",
+                  "value": 120
                 },
                 {
-                  "name": "CircleLayout",
-                  "value": 9317
+                  "name": "Alice Springs-Darwin",
+                  "value": 120
                 },
                 {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
+                  "name": "Broome-Perth",
+                  "value": 90
                 },
                 {
-                  "name": "DendrogramLayout",
-                  "value": 4853
+                  "name": "Launceston-Melbourne",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "V2527-5A",
+              "children": [
+                {
+                  "name": "Sydney-Newcastle	",
+                  "value": 90
                 },
                 {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
+                  "name": "Newcastle-Sydney",
+                  "value": 90
                 },
                 {
-                  "name": "IcicleTreeLayout",
-                  "value": 4864
+                  "name": "Sydney-Broken Hill",
+                  "value": 130
                 },
                 {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
+                  "name": "Broken Hill-Sydney",
+                  "value": 130
                 },
                 {
-                  "name": "Layout",
-                  "value": 7881
+                  "name": "Melbourne-Canberra",
+                  "value": 140
                 },
                 {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
+                  "name": "Canberra-Melbourne",
+                  "value": 140
                 },
                 {
-                  "name": "PieLayout",
-                  "value": 2728
+                  "name": "Melbourne-Hobart",
+                  "value": 130
                 },
                 {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
+                  "name": "Adelaide-Broken Hill",
+                  "value": 100
                 },
                 {
-                  "name": "RandomLayout",
-                  "value": 870
+                  "name": "Broken Hill-Adelaide",
+                  "value": 100
                 },
                 {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
+                  "name": "Perth-Albany",
+                  "value": 100
                 },
                 {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "Perth-Kalgoorlie",
+                  "value": 80
+                },
+                {
+                  "name": "Perth-Broome",
+                  "value": 90
+                },
+                {
+                  "name": "Albany-Perth",
+                  "value": 100
+                },
+                {
+                  "name": "Kalgoorlie-Perth",
+                  "value": 80
+                },
+                {
+                  "name": "Launceston-Hobart",
+                  "value": 80
+                },
+                {
+                  "name": "Hobart-Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "Unknow",
+              "children": [
+                {
+                  "name": "Melbourne-Bendigo",
+                  "value": 70
+                },
+                {
+                  "name": "Bendigo-Melbourne",
+                  "value": 70
+                },
+                {
+                  "name": "Adelaide-Pt Augusta",
+                  "value": 50
+                },
+                {
+                  "name": "Pt Augusta-Adelaide",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "772B-60",
+              "children": [
+                {
+                  "name": "Melbourne-Sydney",
+                  "value": 180
+                }
+              ]
+            },
+            {
+              "name": "CFM56-3B1",
+              "children": [
+                {
+                  "name": "Sydney-Canberra",
+                  "value": 120
+                },
+                {
+                  "name": "Melbourne-Adelaide",
+                  "value": 175
+                },
+                {
+                  "name": "Melbourne-Launceston",
+                  "value": 100
+                },
+                {
+                  "name": "Adelaide-Melbourne",
+                  "value": 175
+                },
+                 {
+                  "name": "Hobart-Melbourne",
+                  "value": 130
+                },
+                {
+                  "name": "Brisbane-Mt Isa",
+                  "value": 170
+                },
+                {
+                  "name": "Brisbane-Rockhampton",
+                  "value": 180
+                },
+                {
+                  "name": "Mt Isa-Darwin",
+                  "value": 120
+                },
+                {
+                  "name": "Darwin-Mt Isa",
+                  "value": 120
                 }
               ]
             }
