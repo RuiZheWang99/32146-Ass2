@@ -1,7 +1,6 @@
 {
   "name": "Detail",
   "children": [
-
     {
       "name": "Airspace class",
       "children": [
@@ -243,7 +242,6 @@
                 }
           ]
         },
-
          {
           "name": "Class D",
           "children": [
@@ -609,10 +607,7 @@
             }
           ]
         },
-
         {
-
-
           "name": "Engine Model",
           "children": [
             {
@@ -767,7 +762,7 @@
               ]
             },
             {
-              "name": "Unknow",
+              "name": "Unknown",
               "children": [
                 {
                   "name": "Melbourne-Bendigo",
@@ -839,12 +834,6 @@
             }
           ]
         }
-
-
-
-
-
-
       ]
     }
   
