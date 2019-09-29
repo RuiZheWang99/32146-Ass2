@@ -6,70 +6,83 @@
       "name": "Airspace class",
       "children": [
         {
-          "name": "A",
+          "name": "Class A",
           "children": [
             {
-              "name": "From Sydney",
+              "name": "From Bendigo",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "To Melbourne",
+                  "value": 70
+                }
+              ]
+            },
+            {
+              "name": "From Brisbane",
+              "children": [
+                {
+                  "name": "To Mt Isa",
+                  "value": 170
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
+                  "name": "To Rockhampton",
+                  "value": 180
                 },
                 {
-                  "name": "CircleLayout",
-                  "value": 9317
+                  "name": "To Cairns",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Cairns",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 230
+                }
+              ]
+            },
+            {
+              "name": "From Darwin",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 240
+                }
+              ]
+            },
+             {
+              "name": "From Hobart",
+              "children": [
+                {
+                  "name": "To Melbourne",
+                  "value": 130
                 },
                 {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
+                  "name": "To Launceston",
+                  "value": 80
+                }
+              ]
+            },
+            {
+              "name": "From Melbourne",
+              "children": [
+                {
+                  "name": "To Adelaide",
+                  "value": 175
                 },
                 {
-                  "name": "DendrogramLayout",
-                  "value": 4853
+                  "name": "To Hobart",
+                  "value": 130
                 },
                 {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
+                  "name": "To Bendigo",
+                  "value": 70
                 },
                 {
-                  "name": "IcicleTreeLayout",
-                  "value": 4864
-                },
-                {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
-                },
-                {
-                  "name": "Layout",
-                  "value": 7881
-                },
-                {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
-                },
-                {
-                  "name": "PieLayout",
-                  "value": 2728
-                },
-                {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
-                },
-                {
-                  "name": "RandomLayout",
-                  "value": 870
-                },
-                {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
-                },
-                {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "To Launceston",
+                  "value": 100
                 }
               ]
             },
@@ -77,71 +90,34 @@
               "name": "From Newcastle",
               "children": [
                 {
-                  "name": "AxisLayout",
-                  "value": 6725
+                  "name": "To Sydney",
+                  "value": 90
+                }
+              ]
+            },
+            {
+              "name": "From Sydney",
+              "children": [
+                {
+                  "name": "To Brisbane",
+                  "value": 170
                 },
                 {
-                  "name": "BundledEdgeRouter",
-                  "value": 3727
-                },
-                {
-                  "name": "CircleLayout",
-                  "value": 9317
-                },
-                {
-                  "name": "CirclePackingLayout",
-                  "value": 12003
-                },
-                {
-                  "name": "DendrogramLayout",
-                  "value": 4853
-                },
-                {
-                  "name": "ForceDirectedLayout",
-                  "value": 8411
-                },
-                {
-                  "name": "IcicleTreeLayout",
-                  "value": 4864
-                },
-                {
-                  "name": "IndentedTreeLayout",
-                  "value": 3174
-                },
-                {
-                  "name": "Layout",
-                  "value": 7881
-                },
-                {
-                  "name": "NodeLinkTreeLayout",
-                  "value": 12870
-                },
-                {
-                  "name": "PieLayout",
-                  "value": 2728
-                },
-                {
-                  "name": "RadialTreeLayout",
-                  "value": 12348
-                },
-                {
-                  "name": "RandomLayout",
-                  "value": 870
-                },
-                {
-                  "name": "StackedAreaLayout",
-                  "value": 9121
-                },
-                {
-                  "name": "TreeMapLayout",
-                  "value": 9191
+                  "name": "To Newcastle",
+                  "value": 90
                 }
               ]
             }
+
+
+
+
+
+
           ]
         },
         {
-          "name": "B",
+          "name": "Class B",
           "children": [
                 {
                   "name": "From Sydney",
@@ -279,7 +255,7 @@
         },
 
         {
-          "name": "C",
+          "name": "Class C",
           "children": [
                 {
                   "name": "From Sydney",
