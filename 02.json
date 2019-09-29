@@ -282,7 +282,7 @@
           "name": "Class E",
           "children": [
             {
-              "name": "From Darwin",
+              "name": "FromDarwin",
               "children": [
                 {
                   "name": "To Alice Springs",
@@ -430,7 +430,7 @@
               "value": 120
             },
             {
-              "name": "Darwin-Alice Springs",
+              "name": "Darwin-AliceSprings",
               "value": 120
             },
             {
@@ -488,11 +488,11 @@
               "value": 130
             },
             {
-              "name": "Adelaide-Broken Hill",
+              "name": "Adelaide-BrokenHill",
               "value": 100
             },
             {
-              "name": "Broken Hill-Adelaide",
+              "name": "BrokenHill-Adelaide",
               "value": 100
             },
             {
@@ -549,7 +549,7 @@
               "value": 130
             },
             {
-              "name": "Brisbane-Mt Isa",
+              "name": "Brisbane-MtIsa",
               "value": 170
             },
             {
@@ -557,11 +557,11 @@
               "value": 180
             },
             {
-              "name": "Mt Isa-Darwin",
+              "name": "MtIsa-Darwin",
               "value": 120
             },
             {
-              "name": "Darwin-Mt Isa",
+              "name": "Darwin-MtIsa",
               "value": 120
             }
           ]
@@ -578,11 +578,11 @@
               "value": 70
             },
             {
-              "name": "Adelaide-Pt Augusta",
+              "name": "Adelaide-PtAugusta",
               "value": 50
             },
             {
-              "name": "Pt Augusta-Adelaide",
+              "name": "PtAugusta-Adelaide",
               "value": 50
             }
           ]
@@ -595,7 +595,7 @@
               "value": 170
             },
             {
-              "name": "Mt Isa-Brisbane",
+              "name": "MtIsa-Brisbane",
               "value": 170
             },
             {
@@ -649,7 +649,7 @@
               "value": 240
             },
             {
-              "name": "Mt Isa-Brisbane",
+              "name": "MtIsa-Brisbane",
               "value": 170
             },
             {
@@ -674,11 +674,11 @@
               "value": 120
             },
             {
-              "name": "Darwin-Alice Springs",
+              "name": "Darwin-AliceSprings",
               "value": 120
             },
             {
-              "name": "Alice Springs-Darwin",
+              "name": "AliceSprings-Darwin",
               "value": 120
             },
             {
@@ -703,11 +703,11 @@
               "value": 90
             },
             {
-              "name": "Sydney-Broken Hill",
+              "name": "Sydney-BrokenHill",
               "value": 130
             },
             {
-              "name": "Broken Hill-Sydney",
+              "name": "BrokenHill-Sydney",
               "value": 130
             },
             {
@@ -723,11 +723,11 @@
               "value": 130
             },
             {
-              "name": "Adelaide-Broken Hill",
+              "name": "Adelaide-BrokenHill",
               "value": 100
             },
             {
-              "name": "Broken Hill-Adelaide",
+              "name": "BrokenHill-Adelaide",
               "value": 100
             },
             {
@@ -772,11 +772,11 @@
               "value": 70
             },
             {
-              "name": "Adelaide-Pt Augusta",
+              "name": "Adelaide-PtAugusta",
               "value": 50
             },
             {
-              "name": "Pt Augusta-Adelaide",
+              "name": "PtAugusta-Adelaide",
               "value": 50
             }
           ]
@@ -814,7 +814,7 @@
               "value": 130
             },
             {
-              "name": "Brisbane-Mt Isa",
+              "name": "Brisbane-MtIsa",
               "value": 170
             },
             {
@@ -822,11 +822,11 @@
               "value": 180
             },
             {
-              "name": "Mt Isa-Darwin",
+              "name": "MtIsa-Darwin",
               "value": 120
             },
             {
-              "name": "Darwin-Mt Isa",
+              "name": "Darwin-MtIsa",
               "value": 120
             }
           ]
